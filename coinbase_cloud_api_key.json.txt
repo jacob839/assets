@@ -1,0 +1,12 @@
+{
+   "name": "organizations/ba2452b6-a6ca-43ed-b6c3-6e60756b2b9c/apiKeys/3cc55e86-14ba-4bd9-93ad-962a632a63d2",
+   "principal": "0698d3dd-122f-585e-b4c1-abd36c6d9232",
+   "principalType": "USER",
+   "publicKey": "-----BEGIN EC PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3s51FSZTlM92NpASaFLXZ8h2+wFO\nnojgTKGngqROszRkBGdnxwsBy3t1tZjCE0bXOw/ZWBAW1iV/qdTmLfWm7Q==\n-----END EC PUBLIC KEY-----\n",
+   "privateKey": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIC39pGWws7a5TjR4U07cEjzeFAPhq7RBzw2raMpese89oAoGCCqGSM49\nAwEHoUQDQgAE3s51FSZTlM92NpASaFLXZ8h2+wFOnojgTKGngqROszRkBGdnxwsB\ny3t1tZjCE0bXOw/ZWBAW1iV/qdTmLfWm7Q==\n-----END EC PRIVATE KEY-----\n",
+   "createTime": "2023-10-15T16:32:24.979026474Z",
+   "projectId": "d977425d-ec90-408b-8084-59e7c37d8caf",
+   "nickname": "Skorzino-key-20231015163146515Z",
+   "scopes": [],
+   "allowedIps": []
+}
